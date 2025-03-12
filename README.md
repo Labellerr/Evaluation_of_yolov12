@@ -14,3 +14,7 @@ The YOLOv12 model demonstrated several improvements over the previous model:
 
 ## Conclusion
 The YOLOv12 model outperformed the previous model in terms of accuracy, speed, and robustness. These improvements make YOLOv12 a better choice for real-time object detection in video data.
+
+## Video Source
+The video data used for testing can be accessed from the following Google Drive link:
+[Video Source on Google Drive](https://drive.google.com/file/d/1GTcUEy3Tg3rHbcVGEz23y53xOZnWBWIQ/view)
